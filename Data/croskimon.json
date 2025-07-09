@@ -1,13 +1,74 @@
-{
+[
+    {
+    "id": 0,
     "name": "Croski",
-    "types": ["normal"],
+    "types": ["Normal"],
+    "species": "Croski Croskimon",
+    "description": "pokedex entry",
+    "ability": [
+        ["Ability 1", "false"],
+        ["Ability 2 {if applicable}", "false"],
+        ["Hidden Ability {if applicable}", "true"]
+    ],
+    "evolution": {"next": [["3", "Level 32"]] },
+    "catchRate": 255,
+    "baseEXP": 0,
+    "baseFriendship": 50,
+    "height": "0 m",
+    "weight": "o kg",
+    "gender": 50,
+    "eggGroup": ["Monster","Grass"],
     "stats": {
-        "HP":0,
+        "hp":0,
         "Attack":0,
         "Defense":0,
         "Sp Attack":0,
         "Sp Defense":0,
         "Speed":0 
     },
-    "": ""
+    "EV Yield": {
+        "hp":0,
+        "Attack":0,
+        "Defense":0,
+        "Sp Attack":0,
+        "Sp Defense":0,
+        "Speed":0 
+    }
+},
+    {
+    "id": 1,
+    "name": "Bumtone",
+    "types": ["Normal"],
+    "species": "Bum Croskimon",
+    "description": "This Croskimon is such a bum. We point and laugh at him.",
+    "ability": [
+        ["Truant", "false"],
+        ["Berserk", "true"]
+    ],
+    "evolution": {},
+    "catchRate": 200,
+    "baseEXP": 40,
+    "baseFriendship": 50,
+    "height": "1.7 m",
+    "weight": "127 kg",
+    "gender": 100,
+    "eggGroup": ["Monster","Grass"],
+    "stats": {
+        "hp":65,
+        "Attack":70,
+        "Defense":60,
+        "Sp Attack":50,
+        "Sp Defense":60,
+        "Speed":40 
+    },
+    "EV Yield": {
+        "hp":2,
+        "Attack":0,
+        "Defense":0,
+        "Sp Attack":0,
+        "Sp Defense":0,
+        "Speed":0 
+    }
 }
+]
+
