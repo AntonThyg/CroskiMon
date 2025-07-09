@@ -1,0 +1,29 @@
+{
+    "name": "Croski",
+    "types": ["normal"],
+    "stats": {
+        "hp":0,
+        "Attack":0,
+        "Defense":0,
+        "Sp Attack":0,
+        "Sp Defense":0,
+        "":0 
+    },
+    "IVs": {
+        "hp":0,
+        "Attack":0,
+        "Defense":0,
+        "Sp Attack":0,
+        "Sp Defense":0,
+        "":0 
+    },
+    "EVs": {
+        "hp":0,
+        "Attack":0,
+        "Defense":0,
+        "Sp Attack":0,
+        "Sp Defense":0,
+        "":0 
+    },
+    "": ""
+}
