@@ -1,5 +1,5 @@
 # Croskimon
-An rpg where croskies raise a croski and train it to fight other, evil croskies.
+An rpg where croskies raise a croski and train it to fight other croskies.
 
 ## Requirements
 - Latest version of Python.
