@@ -15,7 +15,7 @@
     "baseEXP": 0,
     "baseFriendship": 50,
     "height": "0 m",
-    "weight": "o kg",
+    "weight": "0 kg",
     "gender": 50,
     "eggGroup": ["Monster","Grass"],
     "stats": {
@@ -52,7 +52,7 @@
     "height": "1.7 m",
     "weight": "127 kg",
     "gender": 100,
-    "eggGroup": ["Monster","Grass"],
+    "eggGroup": ["Human-Like"],
     "stats": {
         "hp":65,
         "Attack":70,
